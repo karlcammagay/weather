@@ -1,0 +1,7 @@
+1. Project is created in Struts framework.
+2. Main class is Weather Action
+3. Page for weather is index.jsp
+4. Tested the project in tomcat application server.
+5. Created a HelloWorldExample.war to be deploy in tomcat to check the output.
+
+Note: Map will show all the current weather for each country.
